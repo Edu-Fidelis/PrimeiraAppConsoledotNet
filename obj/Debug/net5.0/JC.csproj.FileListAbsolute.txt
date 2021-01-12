@@ -1,0 +1,16 @@
+C:\Users\edu-f_000\dotNet\JC\bin\Debug\net5.0\JC.exe
+C:\Users\edu-f_000\dotNet\JC\bin\Debug\net5.0\JC.deps.json
+C:\Users\edu-f_000\dotNet\JC\bin\Debug\net5.0\JC.runtimeconfig.json
+C:\Users\edu-f_000\dotNet\JC\bin\Debug\net5.0\JC.runtimeconfig.dev.json
+C:\Users\edu-f_000\dotNet\JC\bin\Debug\net5.0\JC.dll
+C:\Users\edu-f_000\dotNet\JC\bin\Debug\net5.0\ref\JC.dll
+C:\Users\edu-f_000\dotNet\JC\bin\Debug\net5.0\JC.pdb
+C:\Users\edu-f_000\dotNet\JC\obj\Debug\net5.0\JC.csprojAssemblyReference.cache
+C:\Users\edu-f_000\dotNet\JC\obj\Debug\net5.0\JC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edu-f_000\dotNet\JC\obj\Debug\net5.0\JC.AssemblyInfoInputs.cache
+C:\Users\edu-f_000\dotNet\JC\obj\Debug\net5.0\JC.AssemblyInfo.cs
+C:\Users\edu-f_000\dotNet\JC\obj\Debug\net5.0\JC.csproj.CoreCompileInputs.cache
+C:\Users\edu-f_000\dotNet\JC\obj\Debug\net5.0\JC.dll
+C:\Users\edu-f_000\dotNet\JC\obj\Debug\net5.0\ref\JC.dll
+C:\Users\edu-f_000\dotNet\JC\obj\Debug\net5.0\JC.pdb
+C:\Users\edu-f_000\dotNet\JC\obj\Debug\net5.0\JC.genruntimeconfig.cache
